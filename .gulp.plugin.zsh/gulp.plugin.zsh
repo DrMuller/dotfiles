@@ -1,0 +1,1 @@
+/usr/local/lib/node_modules/gulp.plugin.zsh/gulp.plugin.zsh
